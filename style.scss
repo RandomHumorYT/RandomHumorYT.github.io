@@ -18,7 +18,8 @@ html {
 }
 
 body { 
-     background: linear-gradient(60deg, to bottom, #66ffff 0%, #ffffff 93%);
+     background: linear-gradient(#ADD8E6, #FFF); /* Standard syntax */;
+}
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
