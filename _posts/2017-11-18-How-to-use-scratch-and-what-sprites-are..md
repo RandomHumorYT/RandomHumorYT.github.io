@@ -2,7 +2,7 @@
 title: How to use scratch and what sprites are.
 layout: post
 author: Harry Smith
-permalink: /RandomHumorYT.github.io/
+permalink: /randomhumoryt.github.io/
 source-id: 1paxzXmanJKJKHYPKPzMW6nLc22xHpDhN5332tTSG9lE
 published: true
 ---
