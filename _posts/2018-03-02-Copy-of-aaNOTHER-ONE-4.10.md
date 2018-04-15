@@ -1,5 +1,5 @@
 ---
-title: CoUsing Blockly games to play and code and object.
+title: Coding Using Blockly games to play and code and object.
 layout: post
 author: Harry Smith
 permalink: /randomhumoryt.github.io/
