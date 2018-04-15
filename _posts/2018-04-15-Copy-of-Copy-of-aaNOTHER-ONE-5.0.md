@@ -1,5 +1,5 @@
 ---
-title: Copy of Copy of aaNOTHER ONE 5.0
+title: Using Lightbot to work out how to code a robot to do actions.
 layout: post
 author: Harry Smith
 permalink: /randomhumouryt.github.io/
