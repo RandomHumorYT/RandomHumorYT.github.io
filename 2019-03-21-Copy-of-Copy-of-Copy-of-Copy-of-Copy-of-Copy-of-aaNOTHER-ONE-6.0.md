@@ -2,7 +2,7 @@
 title: Working with LED lights
 layout: post
 author: harry.smith
-permalink: /copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-aanother-one-6.0/
+permalink: https://github.com/YourNamePLS/InsertNameHere
 source-id: 1zoFLG5QEgxzSaJ2obO4Vxh_pQpSXr2ElgCqoyUxgCrk
 published: true
 ---
