@@ -1,9 +1,8 @@
 ---
-title: Coding and polishing things off.
-
+title: Coding and polishing things off
 layout: post
 author: Harry Smith
-permalink: /randomhumoryt.github.io/
+permalink: https://github.com/YourNamePLS/InsertNameHere
 source-id: 1kwoFrJ0lFYaahROZL3om5PEgje5-BvqE4JxiITOKYMQ
 published: true
 ---
