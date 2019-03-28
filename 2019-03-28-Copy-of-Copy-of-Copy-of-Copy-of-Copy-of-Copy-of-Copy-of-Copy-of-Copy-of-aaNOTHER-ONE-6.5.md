@@ -2,7 +2,7 @@
 title: Codeacademy chapter 7
 layout: post
 author: harry.smith
-permalink: /copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-aanother-one-6.5/
+permalink: https://yournamepls.github.io/
 source-id: 1sDnWAMuzSwy2o3BR9nh83gID4xuJ7ht8g3bpSEBMy2w
 published: true
 ---
